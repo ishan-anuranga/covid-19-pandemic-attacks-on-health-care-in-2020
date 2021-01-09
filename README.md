@@ -5,6 +5,7 @@ This notebook explores a dataset on two different types of COVID 19 related even
 ## Files
 
 Raw dataset - covid-19-pandemic-attacks-on-health-care-in-2020.xlsx
+
 Cleaned dataset - covid-19-pandemic-attacks-on-health-care-in-2020-cleaned.csv
 
 ## Contributing
